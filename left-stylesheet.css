@@ -1,3 +1,28 @@
 body {
   background-color: rgb(240, 240, 255);
 }
+h2 {
+  font-size: 16px;
+  font-weight: normal;
+}
+.top {
+  color: rgb(255, 204, 204);
+}
+.movie {
+  color: rgb(0, 255, 0);
+}
+.TVseries {
+  color: rgb(51, 255, 255);
+}
+.stage {
+  color: rgb(0, 153, 255);
+}
+.photBook {
+  color: rgb(0, 0, 255);
+}
+.published {
+  color: rgb(51, 51, 153);
+}
+.administrator {
+  color: rgb(204, 0, 204);
+}
