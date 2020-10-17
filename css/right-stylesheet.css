@@ -1,5 +1,6 @@
 body {
-  background-image: url(backdroound-abecan.png);
+  background-image: url("../img/backdroound-abecan.png");
+  background-repeat: repeat;
   background-color: rgba(255, 255, 255, 0.8);
   background-blend-mode: lighten;
 }
