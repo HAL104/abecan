@@ -1,9 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 body {
   background-image: url("../img/backdroound-abecan.png");
   background-repeat: repeat;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 252, 223, 0.8);
   background-blend-mode: lighten;
+  width: 99%;
+  margin: 0 auto;
+  height: 1200px;
+}
+h1 {
+  text-align: center;
+  margin-top: 45px;
+  margin-bottom: 30px;
 }
 main {
   display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.profile {
+  margin: 30px 25px;
+}
+.enProf {
+  width: 250px;
+  margin-bottom: 30px;
+}
+.affiliation {
+  margin-top: 30px;
+}
+h2 {
+  font-size: 16px;
+  font-weight: normal;
+  text-align: center;
+  margin-bottom: 150px;
+}
+h3 {
+  font-size: 16px;
+}
+.info {
+  margin-left: 10px;
+}
+.info a {
+  font-weight: bold;
+}
+.infoTVseries {
+  border-top: solid 1px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.infoTVseries p {
+  margin-left: 75px;
+}
+.infoMovie {
+  border-top: solid 1px;
+  border-bottom: solid 1px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.infoMovie p {
+  margin-left: 75px;
+}
+.doragonUme,
+.pDonkusai {
+  color: red;
+  font-weight: bold;
 }
