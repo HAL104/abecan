@@ -3,7 +3,14 @@ body {
   background-repeat: repeat;
   background-color: rgba(255, 255, 255, 0.8);
   background-blend-mode: lighten;
+  text-align: center;
 }
-main {
-  display: flex;
+h1 {
+  font-size: 24px;
+  margin: 50px auto 25px auto;
+}
+table {
+  width: 600px;
+  margin: 0px auto 50px auto;
+  text-align: left;
 }
